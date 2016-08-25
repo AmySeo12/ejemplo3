@@ -15,3 +15,5 @@ ___Completando la función___
 6. MULTIPLICAR "HORAS" Y "PAGO"
 7. IMPRIMIR RESULTADO
 8. FIN
+
+![alt text](http://i68.tinypic.com/xcmxbc.jpg)
